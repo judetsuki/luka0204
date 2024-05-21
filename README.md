@@ -1,4 +1,5 @@
 # ~ greetings ~
+## ~ i like making websites n stuff ~
 
 ### i use these:
 <p align="left">
@@ -9,3 +10,4 @@
  
 <h3 align="left">my stats:</h3>
 <a href="https://github.com/nick-shaydayuk" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luka0204&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
